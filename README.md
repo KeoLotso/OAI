@@ -1,2 +1,16 @@
 # OAI
-OAI is a collection of simple easy to train AI's. This is way to simple and not even close to any good AI like GLM4.5 or other.
+
+OAI is a collection of lightweight and easy-to-train AI models.  
+The goal of this project is not to compete with advanced models like GLM-4.5 or GPT, but to provide **simple, accessible AI implementations** that are easy to understand, train, and extend.
+
+## Features
+- Minimal and beginner-friendly codebase  
+- Easy training workflows  
+- Modular design for experimenting with different ideas  
+- Great for learning the basics of AI and ML  
+
+## Getting Started
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/OAI.git
+cd OAI
